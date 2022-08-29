@@ -3,4 +3,4 @@ Bitcoin is a decentralized digital currency without any central administrator an
 
 
 Model Used; Linear Regression
-Link: https://bitcoinpriceprediction03.herokuapp.com/
+Link: https://bitcoinpriceprediction34.herokuapp.com/
